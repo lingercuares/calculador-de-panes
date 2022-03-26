@@ -1,0 +1,32 @@
+{
+    "pan de jamon": {
+        "harina": 300,
+        "agua": 111,
+        "mantequilla": 33,
+        "azucar": 39,
+        "huevo": 21,
+        "levadura": 5,
+        "sal": 5,
+        "mostaza": 5
+    },
+    "cachito": {
+        "harina": 60,
+        "agua": 22.2,
+        "mantequilla": 6.6,
+        "azucar": 7.8,
+        "huevo": 4.2,
+        "levadura": 1,
+        "sal": 1,
+        "mostaza": 1
+    },
+    "canilla": {
+        "harina": "100",
+        "agua": "40",
+        "mantequilla": "10",
+        "azucar": "",
+        "huevo": "",
+        "levadura": "3",
+        "sal": "2",
+        "mostaza": ""
+    }
+}
